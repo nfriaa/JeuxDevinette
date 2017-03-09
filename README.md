@@ -11,6 +11,6 @@ Le principe est de jouer pour déviner un nombre aléatoire initialisé par l'ap
 * Swing
 
 ## Exécution : 
-Un fichier *jar* exécutable est généré par l'application 
+Un fichier `generated_jar_files/JeuxDevinette.jar` est un **jar** exécutable pour tester l'application.
 
 ;-)
