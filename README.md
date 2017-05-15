@@ -15,3 +15,11 @@ Le principe est de jouer pour déviner un nombre aléatoire initialisé par l'ap
 Télécharger le fichier `generated_jar_files/JeuxDevinette.jar` qui est un **jar** exécutable pour tester l'application (JRE ou JDK 1.8 ou plus pour l'exécuter)
 
 ;-)
+```
+         __      _             
+        / _|    (_)            
+  _ __ | |_ _ __ _  __ _  __ _ 
+ | '_ \|  _| '__| |/ _` |/ _` |
+ | | | | | | |  | | (_| | (_| |
+ |_| |_|_| |_|  |_|\__,_|\__,_|
+```                             
